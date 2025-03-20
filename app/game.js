@@ -282,10 +282,10 @@ const GameScreen = () => {
             >
                 <Icon name="arrow-left" size={24} color="#333" />
             </TouchableOpacity>
-            <Text>
+            {/* <Text>
                 屏幕宽度:{SCREEN_WIDTH}；
                 屏幕高度:{SCREEN_HEIGHT}；
-            </Text>
+            </Text> */}
             {/* <Text id='new'></Text> */}
         </View>
     );
